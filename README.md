@@ -6,6 +6,10 @@ If you enjoy chasing down probably-unexploitable-but-you-can-never-be-sure vulne
 
 `cd trivyal_pursuit`
 
+`gem install bundler`
+
+`bundle install`
+
 ## Authentication
 If you can authenticate with `kubectl`, you're all set.
 
